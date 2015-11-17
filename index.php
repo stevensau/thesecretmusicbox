@@ -1,6 +1,7 @@
 <?php
 // This is a new change 
 // Another change
+// WootWoot
 	global $avia_config, $more;
 
 	/*
