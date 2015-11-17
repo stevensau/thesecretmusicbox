@@ -1,5 +1,5 @@
 <?php
-
+// This is a new change 
 	global $avia_config, $more;
 
 	/*
