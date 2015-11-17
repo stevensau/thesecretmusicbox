@@ -1,6 +1,7 @@
 <?php
 // This is a new change 
 // Another change
+//One More
 	global $avia_config, $more;
 
 	/*
